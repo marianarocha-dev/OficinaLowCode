@@ -159,6 +159,20 @@ git commit -m "novas seções geradas com IA"
 ```
 Reforçar: por que commitamos — histórico, segurança, colaboração.
 
+### Missão Bônus — "Deixe com a sua cara" (opcional, pós-oficina)
+
+Opcional: para quem terminar as missões antes do fim do Bloco 2 e como o caminho de "continuar personalizando depois da oficina". **Sem slot fixo de tempo** — não deve ser cobrada de todos. Reforça a filosofia central (iterar o visual com a IA) e dá espaço para os participantes mais experientes.
+
+Prompts de exemplo (scaffolding — iniciante segue, experiente vai além):
+- **Paleta de cores:** usar as variáveis já existentes no `:root` do `style.css` (`--cor-fundo`, `--cor-destaque`, `--cor-texto`, `--cor-card`)
+- **Fonte:** adicionar uma fonte do Google Fonts (`<head>` + CSS)
+- **Efeito hover** nos `.card-projeto`
+- **Nova seção** (ex: Experiência) no mesmo estilo das existentes
+
+Commit opcional ao final: `git commit -m "personalização visual (bônus)"`.
+
+**Nota sobre links placeholder:** no `index.html`, os links usam placeholders visíveis em maiúsculas (`COLE_O_LINK_DO_PROJETO_AQUI`, `COLE_SEU_LINKEDIN_AQUI`, `COLE_SEU_GITHUB_AQUI`) em vez de `href="#"`, para manter a consistência com o restante do template e deixar óbvio ao aluno que ali vai uma URL.
+
 ---
 
 ## 8. Quiz oficial e mapeamento das respostas

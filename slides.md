@@ -115,6 +115,38 @@ Card de projeto (copie o bloco inteiro para adicionar outro):
 
 - Por que commitamos: histórico, segurança, poder voltar atrás.
 
+## Slide 11b — Missão Bônus: "Deixe com a sua cara" (opcional)
+Para quem terminou as missões — e para continuar depois da oficina.
+A ideia é a mesma: você pede, a IA gera, você aplica. Agora o visual é SEU.
+
+Troque a paleta de cores (style.css já tem as variáveis prontas no :root):
+
+    "No meu style.css tenho estas variáveis de cor no :root:
+    [cole o bloco :root]. Sugira uma nova paleta com a vibe
+    [ex: tons de azul oceano / dark mode / minimalista].
+    Mostre só o bloco :root atualizado."
+
+Mude a fonte (Google Fonts):
+
+    "Como adiciono a fonte [ex: Poppins] do Google Fonts no meu
+    portfólio? Mostre o que colocar no <head> e no CSS."
+
+Adicione um efeito de hover nos cards:
+
+    "Adicione um efeito suave de hover nos .card-projeto: elevar
+    um pouco e aumentar a sombra. Mostre só o CSS que preciso adicionar."
+
+Crie uma seção nova (ex: Experiência):
+
+    "Quero uma seção 'Experiência' no mesmo estilo das outras do meu
+    portfólio. Aqui está o HTML de uma seção existente: [cole]. Mostre
+    o HTML da nova seção."
+
+Lembrete: testou e gostou? Faça um commit.
+
+    git add .
+    git commit -m "personalização visual (bônus)"
+
 ## Slide 12 — Publicação
 - Subir o site para o GitHub e torná-lo público é fazer o **deploy**.  [planta Q5]
 - git push → GitHub Pages → seu site no ar.

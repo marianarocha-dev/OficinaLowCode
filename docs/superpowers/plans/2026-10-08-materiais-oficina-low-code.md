@@ -289,7 +289,7 @@ Placeholders em maiúsculas (`NOME_AQUI`) ficam fáceis de localizar. Comentári
           <div class="conteudo">
             <h3>NOME_DO_PROJETO</h3>
             <p>DESCRICAO_CURTA_DO_PROJETO</p>
-            <a href="#">Ver projeto</a>
+            <a href="COLE_O_LINK_DO_PROJETO_AQUI">Ver projeto</a>
           </div>
         </div>
 
@@ -301,8 +301,8 @@ Placeholders em maiúsculas (`NOME_AQUI`) ficam fáceis de localizar. Comentári
       <h2>Contato</h2>
       <p>
         <a href="mailto:SEU_EMAIL_AQUI">SEU_EMAIL_AQUI</a>
-        <a href="#">LinkedIn</a>
-        <a href="#">GitHub</a>
+        <a href="COLE_SEU_LINKEDIN_AQUI">LinkedIn</a>
+        <a href="COLE_SEU_GITHUB_AQUI">GitHub</a>
       </p>
     </section>
 
