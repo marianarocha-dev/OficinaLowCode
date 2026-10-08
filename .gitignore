@@ -2,6 +2,7 @@
 # (deck de apresentação, fotos pessoais e QR do LinkedIn ficam só no PC)
 apresentacao.pptx
 apresentacao.html
+apresentacao.pdf
 build_slides.py
 assets/mariana.jpg
 assets/qr-linkedin.png
