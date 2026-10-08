@@ -14,3 +14,8 @@ QRCode_*.png
 
 # Saída temporária de ferramentas
 .playwright-mcp/
+
+# Materiais de instrutora / planejamento — fora do template do aluno
+slides.md
+docs/roteiro-instrutora.md
+docs/superpowers/
